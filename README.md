@@ -11,6 +11,12 @@ I’m a Web Developer specializing in JavaScript, React, and Node.js. I enjoy bu
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliomartinez230791)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliocemartinez.091@gmail.com)
+
+
+
 ### ℹ️ A Bit About Me
 - 💻 Code during the day.
 - ☕ Coffee lover.
